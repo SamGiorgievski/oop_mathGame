@@ -2,15 +2,15 @@
 
 
 # Classes:
-# 1: player_info - player_id, current_score
-# Initialize - player_id, current_score
-# Public: player_id, current_score
+# 1: Player - player_id, current_lives
+# Initialize - player_id, current_lives
+# Public: player_id, current_lives
 
 # 2: game_master - scoreboard, round(new turn or game over)
 # Initialize - scoreboard, round
 # Public: scoreboard
 
-# 3. question_master - questions, answers, correct_quote, incorrect_quote, input
+# 3. Question - questions, answers, correct_quote, incorrect_quote, input
 # Initialize - questions, answers
 # public - questions, answers, input
 
